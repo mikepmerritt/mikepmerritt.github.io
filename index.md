@@ -1,6 +1,6 @@
 # Michael Merritt
 
-Hello, and welcome to my website!
+:wave: Hello, and welcome to my website! On this site, you can learn more about me and look at some of my previous programming projects.
 
 To find out more about me, click [here](./about).
 
